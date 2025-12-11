@@ -1,0 +1,64 @@
+{
+  "version": "2.0-encrypted",
+  "created_at": "2025-12-05T18:23:12.210611",
+  "last_updated": "2025-12-05T20:12:37.232413",
+  "encryption_enabled": true,
+  "users": {
+    "e50796024a23f66c77c881eca1310a2c": {
+      "user_name_encrypted": "Z0FBQUFBQnBNeFVBa3BTUmZzRDZlTUFXZGQ4aVd1UWw5NS1wYWE2Sjl3ZDNfTmVvSF83am1EOV9TMVdsU0ZvTmlmRFdCZlFWZHJZTmhWZmRPeVNxTlk2TGZwTjZ5UkZZNWc9PQ==",
+      "predictions_used": 0,
+      "max_predictions": 20,
+      "tier": "premium",
+      "expires_at": "2025-12-31",
+      "prediction_history": [],
+      "last_login_encrypted": "Z0FBQUFBQnBNeFZvd3BZbkRuY2NrNDNJcGtFdWVTQmhJVXJQeEpWV2xhbHUwbGNDRHpsLTFxSVBOV080ekJWUW8yZzZ2OWthMEh0dUpIXzVzcTFHRVVqSnVaVFJneXBCQUFQUDRLUlBISDVXeGNIdXd2MWh6eGc9",
+      "total_sessions": 2
+    },
+    "628e44f97c629aad14d2ccd698289746": {
+      "user_name_encrypted": "Z0FBQUFBQnBNeFVBcU05RDJ0djR5UDgzQW9RVENKNEtDRDI1YlRUWENmSGtUNFhTSThpQ1RkRFFSOXNyZGtLbDc3dkhRcFBuTmtIVkhPb2FPSnJnd2xGdFhMU3d0RmJ3YWc9PQ==",
+      "predictions_used": 1,
+      "max_predictions": 20,
+      "tier": "premium",
+      "expires_at": "2025-12-31",
+      "prediction_history": [
+        {
+          "timestamp": "2025-12-05T20:12:37.232413",
+          "ticker_hash": "cf6866e9b228c492",
+          "model_hash": "901bf84e75c67b2b"
+        }
+      ],
+      "last_login_encrypted": "Z0FBQUFBQnBNeFdEUGhpNU84bXBpd3JNQmswa0Z0aFUwTkFFemVJVDFLa3pQV2ZRQzlYSzJQUFo2MjcwWVdraGFnZTF0QnlKa2hTengxZkhtdFQtZWxQSG5YM3VMeDZuMzZMb1ZLOFBKMWZEeEdTZndGUTV3ME09",
+      "total_sessions": 1
+    },
+    "519f86ef1a9d8a52e530b34cf6a45903": {
+      "user_name_encrypted": "Z0FBQUFBQnBNeFVBNm0zQkRGWjUwZE5FaUowcFVjeDJIMlVWWVlCNHhlb24xZEc0MFNGYUpRZHpxMGprQU02NlZfaXM3WkNKWmhhRnBJNzlmWWM1SmZtZlRwQWxHSjY3akE9PQ==",
+      "predictions_used": 0,
+      "max_predictions": 20,
+      "tier": "premium",
+      "expires_at": "2025-12-31",
+      "prediction_history": [],
+      "last_login_encrypted": null,
+      "total_sessions": 0
+    },
+    "c098770d3b6550f7558cb2ab8da4b996": {
+      "user_name_encrypted": "Z0FBQUFBQnBNeFVBdVRjYVNqZlIyZUFVUV9TUWRPYWM1LVRqOW1CbkVzSlI3Nng5MktCd28zYy0zZUlLMDh6N1lWX1dpejFZMkM3bkJqU2lQbXdVeEc0QjhndlVKTlpJX2c9PQ==",
+      "predictions_used": 0,
+      "max_predictions": 20,
+      "tier": "premium",
+      "expires_at": "2025-12-31",
+      "prediction_history": [],
+      "last_login_encrypted": null,
+      "total_sessions": 0
+    },
+    "7fe631ee3fb1a2a88508ee71df9af97c": {
+      "user_name_encrypted": "Z0FBQUFBQnBNeFVBeXBKMGtGb1pRNkpOSC16WjczVFdEbEY5N3hxZnFQUW5adnlkRUgzdm4yQ25aN3Voal9ta1ZGdF84b0pFQUVZcml2bGJpdzRMTG5VaXNiWnFReFVVVXMwMTlmR0dycTh3aGl1a2liOWRFamM9",
+      "predictions_used": 0,
+      "max_predictions": 20,
+      "tier": "premium",
+      "expires_at": "2025-12-31",
+      "prediction_history": [],
+      "last_login_encrypted": null,
+      "total_sessions": 0
+    }
+  }
+}
