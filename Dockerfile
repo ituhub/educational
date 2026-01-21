@@ -23,4 +23,5 @@ EXPOSE 80
 HEALTHCHECK CMD curl --fail http://localhost:80/_stcore/health
 
 # Run Streamlit app on port 80
-CMD ["streamlit", "run", "application.py", "--server.port=80", "--server.address=0.0.0.0", "--server.enableCORS=false", "--server.enableXsrfProtection=false"]
+
+CMD ["streamlit", "run", "app.py", "--server.port=80", "--server.address=0.0.0.0", "--server.enableCORS=false", "--server.enableXsrfProtection=false"]
