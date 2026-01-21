@@ -577,27 +577,27 @@ class SecurePremiumKeyConfig:
         "ALPHA-TRADER-2024": {
             "user_id": "USER001", "user_name": "Alpha Trader",
             "max_predictions": 20, "tier": "premium", "features": ["all"],
-            "created_at": "2024-01-01", "expires_at": "2025-12-31"
+            "created_at": "2024-01-01", "expires_at": "2026-02-25"
         },
         "BETA-INVEST-2024": {
             "user_id": "USER002", "user_name": "Beta Investor",
             "max_predictions": 20, "tier": "premium", "features": ["all"],
-            "created_at": "2024-01-01", "expires_at": "2025-12-31"
+            "created_at": "2024-01-01", "expires_at": "2026-02-25"
         },
         "GAMMA-ANALYST-24": {
             "user_id": "USER003", "user_name": "Gamma Analyst",
             "max_predictions": 20, "tier": "premium", "features": ["all"],
-            "created_at": "2024-01-01", "expires_at": "2025-12-31"
+            "created_at": "2024-01-01", "expires_at": "2026-02-25"
         },
         "DELTA-QUANT-2024": {
             "user_id": "USER004", "user_name": "Delta Quant",
             "max_predictions": 20, "tier": "premium", "features": ["all"],
-            "created_at": "2024-01-01", "expires_at": "2025-12-31"
+            "created_at": "2024-01-01", "expires_at": "2026-02-25"
         },
         "EPSILON-STRAT-24": {
             "user_id": "USER005", "user_name": "Epsilon Strategist",
             "max_predictions": 20, "tier": "premium", "features": ["all"],
-            "created_at": "2024-01-01", "expires_at": "2025-12-31"
+            "created_at": "2024-01-01", "expires_at": "2026-02-25"
         },
     }
     
